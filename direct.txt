@@ -3,3 +3,4 @@ DOMAIN-SUFFIX,sportsteam368.com
 DOMAIN-SUFFIX,740110.xyz
 DOMAIN-SUFFIX,mingpixel.com
 DOMAIN-SUFFIX,tapd.cn
+DOMAIN-SUFFIX,wisight.cn
