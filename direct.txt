@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,740110.xyz
 DOMAIN-SUFFIX,mingpixel.com
 DOMAIN-SUFFIX,tapd.cn
 DOMAIN-SUFFIX,wisight.cn
+DOMAIN-SUFFIX,wizone.work
