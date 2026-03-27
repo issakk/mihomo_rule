@@ -6,3 +6,4 @@ DOMAIN-SUFFIX,tapd.cn
 DOMAIN-SUFFIX,wisight.cn
 DOMAIN-SUFFIX,wizone.work
 DOMAIN-SUFFIX,zijin.com
+DOMAIN-SUFFIX,kimi.com
