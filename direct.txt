@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,kimi.com
 DOMAIN-SUFFIX,sharedchat.cc
 DOMAIN-SUFFIX,muyuan.do
 DOMAIN-SUFFIX,huazhu.com
+DOMAIN-SUFFIX,opencode.ai
