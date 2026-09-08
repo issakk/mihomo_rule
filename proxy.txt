@@ -1,1 +1,2 @@
 DOMAIN-SUFFIX,opencode.ai
+DOMAIN-SUFFIX,re0.me
